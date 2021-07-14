@@ -10,8 +10,8 @@ import com.king.zxing.CameraScan;
 import com.king.zxing.CaptureActivity;
 
 /**
- *CaptureActivity
- *CaptureFragment
+ * CaptureActivity
+ * CaptureFragment
  */
 public class MainActivity extends AppCompatActivity {
     public static final int REQUEST_CODE_SCAN = 0X01;
