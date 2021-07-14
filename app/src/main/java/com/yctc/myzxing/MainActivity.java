@@ -10,7 +10,7 @@ import com.king.zxing.CameraScan;
 import com.king.zxing.CaptureActivity;
 
 /**
- * CaptureActivity
+ *CaptureActivity
  * CaptureFragment
  */
 public class MainActivity extends AppCompatActivity {
